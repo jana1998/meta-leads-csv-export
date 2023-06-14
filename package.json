@@ -1,0 +1,18 @@
+{
+  "name": "meta-leads-csv-export",
+  "version": "1.0.0",
+  "description": "exports leads from facebook to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supravo Jana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^4.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "request": "^2.88.2"
+  }
+}
