@@ -23,4 +23,8 @@ This repository contains a Node.js script to extract leads from a specified ad s
 - Ad set IDs are specific to each individual ad set created on Meta's ad platform.
 - The script requires Node.js to run. Ensure that you have a compatible version installed on your system.
 
+All to be done https://developers.facebook.com/tools/explorer {Graph API Explorer}
+- To get Page Id switch to page access token and hit {/me}
+- LeadGen Form Id can taken from {<PAGE_ID>/leadgen_forms}
+
 The project serves as a starting point to automate the process of fetching lead data, which can be essential for businesses managing multiple ad campaigns on Meta's ad platform. Please feel free to contribute to this project or use it as a basis for more complex Meta data extraction tasks.
